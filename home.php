@@ -8,7 +8,6 @@
 
 <header bgproperties="fixed" >        
 <h1>yaung 的个人主页</h1>        
-<p>it's yaung ~ </p>      
 </header>
 
 <?php
