@@ -6,9 +6,14 @@
 </head>
 <body>
 
-<?php
+<header bgproperties="fixed" >        
+<h1>yaung 的个人主页</h1>        
+<p>it's yaung ~ </p>      
+</header>
 
+<?php
  $time=time();
+ echo "I am yaung , wekcome to my website!";
  echo $time;
 ?>
 </body>
